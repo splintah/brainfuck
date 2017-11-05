@@ -1,5 +1,3 @@
-//! A parser
-
 use std::process;
 
 #[derive(Debug, PartialEq)]
